@@ -24,7 +24,7 @@ function preload () {
   lantern = loadImage("lantern2.png");
   kid = loadImage("kid-1.png");
   kid2 = loadImage("kid-2.png");
-  shrine = loadImage("shrine2.png");
+  shrine = loadImage("shrine.png");
   bamboo1 = loadImage("bamboo1.png");
   bamboo2 = loadImage("bamboo2.png");
   
