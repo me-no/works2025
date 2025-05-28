@@ -44,7 +44,7 @@ function setup() {
   //createCanvas(cwidth, cheight);
   // for iframe on gallery 
   canvas = createCanvas(cwidth, cheight);
-  canvas.style('width','100%');canvas.style('height','auto');
+  canvas.style('width','auto');canvas.style('height','100vh');canvas.style('margin','auto');
   background(255);
   
 
